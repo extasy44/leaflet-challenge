@@ -8,3 +8,17 @@ body,
 html {
   height: 100%;
 }
+.earth-quake-place {
+  text-align: center;
+}
+.earth-quake-time {
+  border: 1px solid #c9c9c9;
+  padding: 8px;
+  text-align: center;
+}
+
+.legend-range {
+  border: 1px solid white;
+  margin: 2px;
+  padding: 0px 5px;
+}
